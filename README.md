@@ -17,5 +17,4 @@ Achieving Precision Farming by Optimizing the Agricultural Production.
 4. Seaborn
 5. Sikit learn
 6. KMean Clustering
-7. Tensorflow
-8. Keras
+7. Logistic Regression
